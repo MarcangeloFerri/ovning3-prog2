@@ -15,6 +15,7 @@ public class Exercise3 {
 	}
 
 	public void importRecordings(String fileName) {
+		// läser filens inehåll och omvandlar det till ett recording object
 
 	}
 
